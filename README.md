@@ -10,7 +10,7 @@
 ## What I'm up to
 #### 🔭 I’m currently working at UCLA, on the [TerraLing project](https://terraling.com).
 - You can see our work on our [Github repo](https://github.com/linguisticexplorer/terraling).
-#### 📚 I just wrote a blog post about [writing a Machine Learning project from scratch](https://blog.shaile.sh/posts/machine-learning-from-scratch-part-1/).
+#### 📚 I just wrote a blog post about [writing a JavaScript tagging library](https://blog.shaile.sh/posts/writing-a-javascript-library/).
 - Check out the [rest of my blog](https://blog.shaile.sh).
 #### 🌱 I’m currently learning Spanish (and Go).
 - Look at [what else I'm learning](https://shaile.sh#skills)
