@@ -8,12 +8,12 @@
 #### 🦘 Fun fact: I lived in Australia for 9 years and don't have any accent at all!
 
 ## What I'm up to
-#### 🔭 I’m currently working at UCLA, on the [TerraLing project](https://terraling.com).
-- You can see our work on our [Github repo](https://github.com/linguisticexplorer/terraling).
-#### 📚 I just wrote a blog post about [writing a JavaScript tagging library](https://blog.shaile.sh/posts/writing-a-javascript-library/).
-- Check out the [rest of my blog](https://blog.shaile.sh).
+#### 🔭 I’m currently interning at [Better](https://better.com).
+- We're working to make mortgages accessible for everyone.
+#### 📚 I just wrote a blog post about [storing data in IndexDB](https://shaile.sh/codes/posts/2021/01/21/storing-files-indexed-db/).
+- Check out the [rest of my blog](https://shaile.sh/codes).
 #### 🌱 I’m currently learning Spanish (and Go).
-- Look at [what else I'm learning](https://shaile.sh#skills)
+- Look at [what else I'm learning](https://shaile.sh/resume/#skills)
 #### ❎ I’m looking for help with my [newest project](https://svasandani.github.io/dynamic-tags).
 - You can find the code at the [Github repo](https://github.com/svasandani/dynamic-tags).
 
