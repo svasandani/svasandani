@@ -1,6 +1,4 @@
-<a href="https://shaile.sh"><img src="https://raw.githubusercontent.com/svasandani/svasandani/master/header.gif" width="100%"></a>
-
-[![HitCount](http://hits.dwyl.com/svasandani/svasandani.svg)](http://hits.dwyl.com/svasandani/svasandani)
+# Hi! I'm Shailesh.
 
 ## Who I am
 #### 🤵 My name is Shailesh (he/him/his).
