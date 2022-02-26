@@ -2,11 +2,11 @@
 
 ## Who I am
 #### 🤵 My name is Shailesh (he/him/his).
-- I'm a full stack engineer, but I have a secret love for [design](https://design.shaile.sh) and [photography](https://photography.shaile.sh). 
+- I'm a full stack engineer (specializing in Site Reliability Engineering), but I have a secret love for [design](https://design.shaile.sh) and [photography](https://photography.shaile.sh). 
 #### 🦘 Fun fact: I lived in Australia for 9 years and don't have any accent at all!
 
 ## What I'm up to
-#### 🔭 I’m currently interning at [Better](https://better.com).
+#### 🔭 I’m currently working at [Better](https://better.com).
 - We're working to make mortgages accessible for everyone.
 #### 📚 I just wrote a blog post about [storing data in IndexDB](https://shaile.sh/codes/posts/2021/01/21/storing-files-indexed-db/).
 - Check out the [rest of my blog](https://shaile.sh/codes).
