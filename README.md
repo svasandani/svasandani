@@ -7,7 +7,7 @@
 
 ## What I'm up to
 #### 🔭 I’m currently working at [Rain](https://raincards.xyz).
-- We're making business credit cards accessible to Web3 companies.
+- We're developing the future of digital money by enabling card issuing for underbanked communities.
 #### 📚 I just wrote a blog post about [storing data in IndexDB](https://shaile.sh/codes/posts/2021/01/21/storing-files-indexed-db/).
 - Check out the [rest of my blog](https://shaile.sh/codes).
 #### 🌱 I’m currently learning Spanish (and Go).
